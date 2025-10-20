@@ -1,0 +1,16 @@
+body {
+  height: 100vh;           
+  display: flex;             
+  justify-content: center;    
+  align-items: center;       
+  background-color: #fff;    
+}
+
+.body {
+  text-align: center;
+  margin: 15rem ;
+  background-color: rgb(245, 238, 231);
+  width: 20rem;
+}
+
+
